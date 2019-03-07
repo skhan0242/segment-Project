@@ -1,0 +1,83 @@
+{
+  "attributes": [
+    {
+      "id": "1",
+      "title": "customer segments",
+      "type": "product"
+    },
+    {
+      "id": "2",
+      "title": "strategics importance",
+      "type": "product"
+    },
+    {
+      "id": "3",
+      "title": "product margin",
+      "type": "product"
+    },
+    {
+      "id": "4",
+      "title": "product margin",
+      "type": "product"
+    },
+    {
+      "id": "5",
+      "title": "product margin",
+      "type": "product"
+    },
+    {
+      "id": "6",
+      "title": "product margin",
+      "type": "product"
+    },
+    {
+      "id": "7",
+      "title": "customer volume",
+      "type": "customer"
+    },
+    {
+      "id": "8",
+      "title": "customer volume",
+      "type": "customer"
+    },
+    {
+      "id": "9",
+      "title": "customer volume",
+      "type": "customer"
+    },
+    {
+      "id": "10",
+      "title": "customer volume",
+      "type": "customer"
+    }
+  ],
+  "selectedProducts": [
+    {
+      "id": "1",
+      "title": "customer segments",
+      "type": "product"
+    },
+    {
+      "id": "2",
+      "title": "strategics importance",
+      "type": "product"
+    },
+    {
+      "id": "6",
+      "title": "product margin",
+      "type": "product"
+    }
+  ],
+  "selectedCustomers": [
+    {
+      "id": "8",
+      "title": "customer volume",
+      "type": "customer"
+    },
+    {
+      "id": "10",
+      "title": "customer volume",
+      "type": "customer"
+    }
+  ]
+}
